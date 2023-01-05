@@ -17,7 +17,7 @@
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "react-dropzone": "^8.0.3",
-    "react-scripts": "2.1.1",
+    "react-scripts": "2.1.8",
     "react-table": "^6.8.6",
     "ts-protoc-gen": "^0.8.0"
   },
@@ -39,7 +39,7 @@
   "devDependencies": {
     "enzyme": "^3.7.0",
     "enzyme-adapter-react-16": "^1.7.0",
-    "jest": "^23.6.0",
+    "jest": "^29.3.1",
     "react-test-renderer": "^16.6.3",
     "react-app-rewired": "^2.1.0"
   }
